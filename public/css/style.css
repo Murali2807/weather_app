@@ -1,0 +1,15 @@
+h1{
+    color:rgb(26, 52, 170);
+
+}
+
+img {
+    width: 250px;
+    height: 250px;
+}
+
+a{
+    text-decoration: none;
+    font-size: 1rem;
+    color:brown;
+}
